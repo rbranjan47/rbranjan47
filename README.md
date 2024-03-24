@@ -2,11 +2,11 @@
 <h3 align="center">A Enthusiast software Development Engineer in Test from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif">
 
-- 🔭 I’m currently working on [ResMan](https://myresman.com/)
+<!--- 🔭 I’m currently working on [ResMan](https://myresman.com/) -->
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript** and **Data-Structure With Java**
 
-- 💬 Ask me about **Java, Selenium, Appium, Playwright, Cypress, J-meter**
+- 💬 Ask me about **Java, Javascript, Selenium, Appium, Playwright, Cypress, J-meter**
 
 - 📫 How to reach me **rbranjan47@gmail.com**
 
