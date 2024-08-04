@@ -4,7 +4,7 @@
 
 <!--- 🔭 I’m currently working on [ResMan](https://myresman.com/) -->
 
-- 🌱 I’m currently learning **Javascript** and **Data-Structure With Java**
+- 🌱 I’m currently learning **Javascript** and **Python** to Automate modern website and apps.
 
 - 💬 Ask me about **Java, Javascript, Selenium, Appium, Playwright, Cypress, J-meter**
 
