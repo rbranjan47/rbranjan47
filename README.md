@@ -1,18 +1,53 @@
-<h1 align="center">Hey 👋, I'm Rabi</h1> <h3 align="center">SDET | Automation & Quality Engineering | India 🇮🇳</h3> <img align="right" alt="Coding" width="400" src="https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif">
-🔭 I'm currently working as a Consultant SDET at Genpact, building Web & ADA accessibility automation suites (Selenium, Playwright) integrated into Jenkins CI/CD pipelines.
-🌱 I'm currently learning JavaScript, Python, and C++ to broaden my automation and programming toolkit.
-💬 Ask me about Java, JavaScript, Selenium, Appium, Playwright, Cypress, Postman, REST-Assured, JMeter
-🛠️ I've built automation frameworks from scratch (Core Java, TestNG, Maven, Page Object Model) for platforms in wealth management and property/workforce management.
-🏆 2x SDET Certificate of Achievement, Genpact
-📫 How to reach me: rbranjan47@gmail.com
-💼 Experience Snapshot
-Company	Role	Duration
-Genpact	Consultant SDET	Mar 2024 – Present
-ThinkSys Inc.	Software Engineer	Dec 2020 – Feb 2024
-Embibe	Content Analyst	Sep 2019 – Mar 2020
-Motherson Group (Maruti Suzuki project)	Quality Specialist	Jul 2019 – Aug 2019
-🚀 Featured Work
-Morgan Stanley & E*Trade — Web & ADA accessibility automation for a wealth management platform using MARVEL (Selenium, Playwright), with Jenkins CI/CD and API validation via Postman/REST-Assured.
-ResMan (Inhabit IQ) — Selenium automation framework (Java, TestNG, Maven, POM) for a property management platform, backed by SQL-driven and Postman API testing.
-<h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="30" height="30"/> </a> <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" alt="appium" width="30" height="30"/> </a> <a href="https://playwright.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="30" height="30"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="30" height="30"/> </a> <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://webdriver.io/img/webdriverio.png" alt="webdriverio" width="30" height="30"/> </a> <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jmeter/jmeter-original.svg" alt="jmeter" width="30" height="30"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a> <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="maven" width="30" height="30"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-line.svg" alt="jenkins" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="30" height="30"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/rbranjan47" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/></a> <a href="mailto:rbranjan47@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="30" height="30"/></a> </p>
+<h1 align="center">Hey 👋, I'm Rabi Ranjan Kumar</h1>
+<h3 align="center">Consultant SDET | Automation Enthusiast from India 🇮🇳</h3>
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://www.qamadness.com/wp-content/themes/qamadness/dist/images/gif-animation/qaengineer-animation-rev.gif">
+</p>
+
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working as a **Consultant SDET** at Genpact in Bengaluru. 
+- 💼 My recent work involves building Web and ADA accessibility automation suites using MARVEL, Selenium, and Playwright.
+- 🌱 I’m currently utilizing **Generative AI** tools and prompt engineering to reduce test creation time and optimize testing workflows.
+- 🛠️ I specialize in designing scalable automation frameworks from scratch using Core Java, TestNG, Maven, and Page Object Model (POM).
+- 💬 Ask me about: **Core Java, JavaScript, TypeScript, Selenium, Playwright, Appium, JMeter, and API Testing (Postman/REST-Assured)**.
+- 📫 How to reach me: **rbranjan47@gmail.com**[cite: 1] or connect with me on **[LinkedIn](https://linkedin.com/in/rbranjan47)**.
+- ⚡ Fun fact: When I'm not integrating automated regression tests into Jenkins CI/CD pipelines, you can find me riding my motorcycle around Bengaluru or hunting down the city's best local biryani spots!
+
+---
+
+## 🚀 Languages and Tools
+
+### 💻 Programming Languages
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+</p>
+
+### ⚙️ Automation & Testing
+<p align="left"> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
+### 🗄️ Databases & CI/CD
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/rbranjan47">
+    <img src="https://github-readme-stats.vercel.app/api?username=rbranjan47&show_icons=true&theme=radical" alt="rbranjan47's GitHub stats" />
+  </a>
+</p>
